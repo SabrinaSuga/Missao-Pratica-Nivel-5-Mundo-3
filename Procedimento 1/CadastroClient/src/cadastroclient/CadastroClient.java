@@ -16,7 +16,7 @@ import model.Produto;
 
 /**
  *
- * @author grego
+ * @author bina
  */
 public class CadastroClient {
 
