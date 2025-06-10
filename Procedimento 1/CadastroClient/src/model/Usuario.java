@@ -18,7 +18,7 @@ import javax.persistence.Table;
 
 /**
  *
- * @author grego
+ * @author bina
  */
 @Entity
 @Table(name = "usuario")
